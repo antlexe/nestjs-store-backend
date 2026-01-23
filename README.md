@@ -112,7 +112,7 @@ src/
 
 - `Passport.js` — аутентификация (Local + JWT)
 
-- `bcryp`t — хеширование паролей
+- `bcrypt` — хеширование паролей
 
 - `class-validator` + `class-transformer` — валидация DTO
 
