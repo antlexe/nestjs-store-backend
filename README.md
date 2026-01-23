@@ -24,7 +24,7 @@ npm install
 
 ```bash
 # Для продакшена замените на собственные:
-DATABASE_URL — строка подключения к вашей PostgreSQ
+DATABASE_URL — строка подключения к вашей PostgreSQL
 JWT_SECRET — секретный ключ для JWT
 ```
 
