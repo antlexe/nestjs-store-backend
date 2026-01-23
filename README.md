@@ -20,13 +20,9 @@ npm install
 
 ### Настройка окружения
 
-Создайте и заполните файл `.env`.
+Значения из файла `.env-sample` (**примеры для демонстрации**) перенесите в файл `.env`.
 
 ```bash
-# Примеры значений для демонстрации
-DATABASE_URL="postgresql://reviewer:npg_XwmE6T2iUHJe@ep-withered-wind-ah96qjdf-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
-JWT_SECRET="uNJkPRTa5j4Ipc1teF4HqXh15MfaVfrgVJx83bEAVLO"
-
 # Для продакшена замените на собственные:
 DATABASE_URL — строка подключения к вашей PostgreSQ
 JWT_SECRET — секретный ключ для JWT
