@@ -66,7 +66,7 @@ npm run start:dev
 
 ## 🏗️ Архитектура
 
-```
+```bash
 src/
 ├── auth/
 │   ├── decorators/
