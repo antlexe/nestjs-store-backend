@@ -13,7 +13,7 @@
 ### Установка
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/antlexe/nestjs-store-backend.git
 cd nestjs-store-backend
 npm install
 ```
